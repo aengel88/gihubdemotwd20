@@ -1,2 +1,2 @@
-#Git Hub Demo TWD 20
+#GitHubDemoTWD20
 Demo project to understand git and github
